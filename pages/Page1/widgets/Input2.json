@@ -15,6 +15,7 @@
     }
   ],
   "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
   "iconAlign": "left",
   "inputType": "TEXT",
   "isDisabled": false,
@@ -22,7 +23,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "jrsb8ee5vt",
-  "label": "Label",
+  "label": "Label2222",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
